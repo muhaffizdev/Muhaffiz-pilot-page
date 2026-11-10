@@ -31,4 +31,4 @@ Pages is set to deploy from **GitHub Actions** (Settings › Pages › Source), 
 
 - `src/app/` holds the layout, global styles and theme tokens (`globals.css`), and the page.
 - `src/components/` holds one component per section of the page.
-- `public/` holds files copied as-is (`CNAME`, `.nojekyll`).
+- `public/` holds files copied as-is (`CNAME`, `.nojekyll`)..
